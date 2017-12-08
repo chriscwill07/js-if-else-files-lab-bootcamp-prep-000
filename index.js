@@ -6,6 +6,7 @@ if (name === "Susan") {
   console.log("Expected the name to be Susan")
 }
 nodejs index.js
+nodejs
 
 nodejs index.js 
 nodejs indes.js
